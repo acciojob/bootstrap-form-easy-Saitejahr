@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+#first-name-input{
+    display: inline-block;
+}
+#last-name-input{
+    display: inline-block;
+}
+#email-input{
+    display: inline-block;
+}
+#college-input{
+    display: inline-block;
+}
+#first-name-input{
+    display: inline-block;
+}
+#roll-no-input{
+    display: inline-block;
+}
